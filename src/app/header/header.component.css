@@ -4,3 +4,6 @@
 .center-img {
   margin: 0 auto;
 }
+.no-padding {
+  padding: 0;
+}

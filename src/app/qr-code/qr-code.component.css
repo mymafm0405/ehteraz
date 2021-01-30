@@ -2,3 +2,6 @@
   margin: 0 auto;
   box-shadow: 5px 10px 20px #666;
 }
+.no-padding {
+  padding: 0;
+}

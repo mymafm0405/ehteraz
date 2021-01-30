@@ -8,3 +8,6 @@ input {
   color: #900;
   line-height: 40px;
 }
+.no-padding {
+  padding: 0;
+}
